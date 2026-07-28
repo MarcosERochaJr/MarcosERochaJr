@@ -1,16 +1,45 @@
-## Hi there 👋
+# Olá, eu sou o Marcos Rocha! 👋
 
-<!--
-**MarcosERochaJr/MarcosERochaJr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou **Analista de Sistemas** e atualmente estou estudando para migrar para a área de **Desenvolvimento Full Stack**.
 
-Here are some ideas to get you started:
+## 🚀 Atualmente estudando
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌐 HTML5
+- 🎨 CSS3
+- ⚡ JavaScript
+- 🟢 Node.js (próximo passo)
+
+## 💼 Tecnologias que utilizo no trabalho
+
+- SQL Server
+- Power BI
+- Power Query
+- DAX
+- Power BI Report Builder
+- Power Apps
+- n8n
+
+## 📚 Repositórios de estudo
+
+- 📖 HTML & CSS
+
+## 🎯 Objetivo
+
+Construir uma carreira como desenvolvedor, compartilhando minha evolução através de projetos e estudos publicados aqui no GitHub.
+
+Sempre que concluo um novo exercício ou projeto, faço o versionamento utilizando Git e GitHub.
+
+
+## 🛠️ Tecnologias
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,git,github,vscode,mysql" />
+</p>
+
+## 📫 Contato
+
+- WhatsApp: +5516988507496
+
+---
+
+⭐ Obrigado por visitar meu perfil!
