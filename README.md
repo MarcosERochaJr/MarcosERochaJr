@@ -38,7 +38,7 @@ Sempre que concluo um novo exercício ou projeto, faço o versionamento utilizan
 
 ## 📫 Contato
 
-- WhatsApp: +5516988507496
+- WhatsApp: [+5516988507496](https://api.whatsapp.com/send/?phone=5516988507496)
 
 ---
 
